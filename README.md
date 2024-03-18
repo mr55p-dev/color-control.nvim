@@ -9,7 +9,6 @@ Using lazy:
 ```lua
 	{
 		"mr55p-dev/color-control.nvim",
-		dev = true,
 		config = true,
 		dependencies = { "nvim-lua/plenary.nvim" },
 	},
